@@ -10,20 +10,12 @@
 
 ## Build and run
 ```bash
-mkdir build
-cd build
-cmake ..
-cmake --build .
-./ife
+cmake -S . -B build
+cmake --build build
+./build/ife
 ```
 
-The program generates output files in the `data/` directory.
-
-## Plotting
-To plot the results:
-```bash
-python3 src/reader.py
-```
+The program generates output files in the `data/` directory, which can be visualized using `src/reader.py`.
 
 ## Struve function
 The C++ implementation of the zeroth-order Struve function was adapted from `struve.cpp` in the RIFeatures project by C. P. Bridge:
