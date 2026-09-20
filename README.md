@@ -1,10 +1,10 @@
 # Code for "Light-induced rectified orbital magnetization in electron-hole bilayers"
 
 ## Requirements
-CMake >= 3.10
-C++20 compiler
-Armadillo
-Python 3 with NumPy and Matplotlib
+- CMake >= 3.10
+- C++20 compiler
+- Armadillo
+- Python 3 with NumPy and Matplotlib
 
 ## Build and run
 ```bash
