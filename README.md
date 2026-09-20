@@ -3,10 +3,9 @@
 [Zenodo DOI: 10.5281/zenodo.22863044](https://doi.org/10.5281/zenodo.22863044)
 
 ## Requirements
-- CMake >= 3.10
-- C++20 compiler
-- Armadillo
-- Python 3 with NumPy and Matplotlib
+- [CMake](https://cmake.org/) >= 3.10
+- C++20 and [Armadillo](https://arma.sourceforge.net/)
+- Python 3 with [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/)
 
 ## Build and run
 ```bash
