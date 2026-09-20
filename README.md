@@ -1,6 +1,6 @@
 # Code for "Light-induced rectified orbital magnetization in electron-hole bilayers"
 
-[![DOI](https://zenodo.org/badge/1378665198.svg)](https://doi.org/10.5281/zenodo.22863044)
+[Zenodo DOI: 10.5281/zenodo.22863044](https://doi.org/10.5281/zenodo.22863044)
 
 ## Requirements
 - CMake >= 3.10
