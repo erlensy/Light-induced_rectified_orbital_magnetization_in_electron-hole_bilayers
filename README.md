@@ -1,4 +1,4 @@
-# Code for "Light-induced rectified orbital magnetization in electron-hole bilayers"
+# Light-induced rectified orbital magnetization in electron-hole bilayers
 
 [Zenodo DOI: 10.5281/zenodo.22863044](https://doi.org/10.5281/zenodo.22863044)
 
