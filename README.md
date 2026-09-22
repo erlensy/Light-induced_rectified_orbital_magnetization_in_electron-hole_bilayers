@@ -11,7 +11,7 @@
 ```bash
 cmake -S . -B build
 cmake --build build
-./build/ife
+cd build && ./ife
 ```
 
 The program generates output files in the `data/` directory, which can be visualized using `src/reader.py`.
